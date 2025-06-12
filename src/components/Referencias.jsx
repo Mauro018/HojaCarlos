@@ -1,10 +1,10 @@
 const Referencias = () => {
     const references = [
         {
-            name: "Ninguno",
-            position: "Ninguno",
-            phone: "Ninguno",
-            email: "Ninguno"
+            name: "Tobias Arévalo",
+            position: "Dueño de Campesino S.A.",
+            phone: "320 857 2044",
+            email: "tobias.arevalo@campesinos.com"
         }
     ];
 
