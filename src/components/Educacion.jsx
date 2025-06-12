@@ -7,7 +7,7 @@ const Educacion = () => {
         },
         {
             year: "2023",
-            title: "Bachiller Técnico en Sistemas Énfasis en Contabilidad",
+            title: "Bachiller Técnico en Sistemas y Énfasis en Contabilidad",
             institucion: "Colegio Técnico Carlos J Huelgos"
         }
     ];
