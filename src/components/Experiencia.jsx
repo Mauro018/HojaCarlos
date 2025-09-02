@@ -1,20 +1,12 @@
 const Experiencia = () => {
     const experienciaLaboral = [
         {
-            id: 1,
-            empresa: "Campesino S.A",
-            cargo: "Auxiliar en trabajos agropecuarios",
-            periodo: "2017-2018 y 2020",
+            cargo: "No aplica",
+            periodo: "",
             funciones: [
-                "Siembra de alimentos",
-                "Arreglo de tierras",
-                "Tratamiento de los animales",
-                "Preparación de los alimentos",
-                "Entrega de los alimentos",
-                "Limpieza de las tierras"
             ],
-            supervisor: "Tobias Arévalo",
-            contacto: "320 857 2044"
+            supervisor: "",
+            contacto: ""
         }
     ];
 
@@ -24,8 +16,8 @@ const Experiencia = () => {
             <div className="experience-list">
             {experienciaLaboral.map(exp => (
                 <div key={exp.id} className="experience-item">
-                <h3>{exp.texto}</h3>
-                <p className="position">{exp.cargo} | {exp.periodo}</p>
+                <h3>{exp.cargo}</h3>
+                {/* <p className="position">{exp.cargo} {exp.periodo}</p>
                 <h4>Funciones:</h4>
                 <ul>
                     {exp.funciones.map((func, index) => (
@@ -33,7 +25,7 @@ const Experiencia = () => {
                     ))}
                 </ul>
                 <p className="supervisor"><strong>Jefe inmediato:</strong> {exp.supervisor}</p>
-                <p className="contact"><strong>Contacto:</strong> {exp.contacto}</p>
+                <p className="contact"><strong>Contacto:</strong> {exp.contacto}</p> */}
                 </div>
             ))}
             </div>
