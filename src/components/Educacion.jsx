@@ -8,7 +8,7 @@ const Educacion = () => {
         {
             year: "2017",
             title: "Basica Primaria",
-            institucion: "Escuela Vereda El Águila"
+            institucion: "Institución educativa La Leona"
         }
     ];
 
