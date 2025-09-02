@@ -1,7 +1,20 @@
 const Experiencia = () => {
     const experienciaLaboral = [
         {
-            texto: "No aplica"
+            id: 1,
+            empresa: "Campesino S.A",
+            cargo: "Auxiliar en trabajos agropecuarios",
+            periodo: "2017-2018 y 2020",
+            funciones: [
+                "Siembra de alimentos",
+                "Arreglo de tierras",
+                "Tratamiento de los animales",
+                "Preparación de los alimentos",
+                "Entrega de los alimentos",
+                "Limpieza de las tierras"
+            ],
+            supervisor: "Tobias Arévalo",
+            contacto: "320 857 2044"
         }
     ];
 
