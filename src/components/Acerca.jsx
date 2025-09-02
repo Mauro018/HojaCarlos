@@ -8,8 +8,8 @@ const About = () => {
             </p>
             <p>
                 Tengo conocimientos en el manejo del desarrollo web y en su diseño grafico, en la creacion y desarrollo 
-                de proyectos en Django, tengo conociminetos basicos sobre el manejo de una base de datos, el uso de
-                python y javascript.
+                de proyectos en Django, tengo conociminetos basicos sobre el manejo de una base de datos, el uso de basico 
+                de python en django, estoy aprendiendo sobre el uso de javascript, typescript y el manejo de react.
             </p>
         </section>
     );

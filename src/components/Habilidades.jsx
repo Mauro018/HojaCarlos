@@ -3,7 +3,8 @@ const Habilidades = () => {
         "Trabajo en equipo",
         "Capacidad de escucha",
         "Habilidad de análisis",
-        "Toma de decisiones"
+        "Toma de decisiones", 
+        "Capacidad de aprendizaje",
     ];
 
     return (

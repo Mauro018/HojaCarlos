@@ -1,14 +1,14 @@
 const Educacion = () => {
     const formacionAcademica = [
         {
-            year: "2017",
-            title: "Basica Primaria",
-            institucion: "Escuela Vereda El Águila"
-        },
-        {
             year: "2023",
             title: "Bachiller Técnico en Sistemas y Énfasis en Contabilidad",
             institucion: "Colegio Técnico Carlos J Huelgos"
+        },
+        {
+            year: "2017",
+            title: "Basica Primaria",
+            institucion: "Escuela Vereda El Águila"
         }
     ];
 
