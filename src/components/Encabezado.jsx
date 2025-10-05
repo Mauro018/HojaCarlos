@@ -17,7 +17,7 @@ const Encabezado = () => {
             }}
             />
             <h1>Carlos Mauricio Arévalo Zapata</h1>
-            <h2>Aprendiz Sena</h2>
+            <h2>Aprendiz</h2>
             <div className="contact-info">
                 <p>Ibagué, Colombia</p>
                 <p>Teléfono: 321 289 2950</p>
